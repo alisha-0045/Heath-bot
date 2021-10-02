@@ -1,0 +1,9 @@
+{
+  "id": "0a317c28-392c-490e-ba82-8d84fbeb2e6f",
+  "name": "rare",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
